@@ -1,0 +1,3 @@
+[submodule "beginners-python"]
+	path = beginners-python
+	url = https://github.com/warwickdatasciencesociety/beginners-python
