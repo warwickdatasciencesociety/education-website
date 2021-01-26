@@ -1,6 +1,6 @@
 [submodule "beginners-python"]
 	path = beginners-python
-	url = git://github.com/warwickdatasciencesociety/beginners-python.git
+	url = https://github.com/warwickdatasciencesociety/beginners-python.git
 [submodule "into-the-tidyverse"]
 	path = into-the-tidyverse
-	url = git://github.com/warwickdatasciencesociety/into-the-tidyverse.git
+	url = https://github.com/warwickdatasciencesociety/into-the-tidyverse.git
