@@ -4,3 +4,6 @@
 [submodule "into-the-tidyverse"]
 	path = into-the-tidyverse
 	url = https://github.com/warwickdatasciencesociety/into-the-tidyverse.git
+[submodule "python-for-data-science"]
+	path = python-for-data-science
+	url = https://github.com/warwickdatasciencesociety/python-for-data-science.git
